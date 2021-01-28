@@ -1,2 +1,2 @@
 # SnakeGame
-A simply web based snake game.
+A simple web based snake game.
